@@ -22,7 +22,7 @@ Currently **job hunting** for **AI Software Developer** or **DevOps** roles. Ope
 
 ### 🚀 Featured Projects
 
-#### 🥾 Moodwalk
+#### [Moodwalk](https://github.com/cura-yjk/moodwalk)
 A Rails 8 app that generates short walking-loop routes ("journeys") near the user's location. Users start a walk along a suggested route and log their mood and a reflection once it's complete.
 
 **Highlights:**
@@ -30,7 +30,7 @@ A Rails 8 app that generates short walking-loop routes ("journeys") near the use
 - **Resilient retry logic across two APIs**: Self-correcting retry strategy for Mapbox Directions and Google Places that rescales search radius based on distance-tolerance error, while tracking the best result across attempts so a later retry can't discard an earlier working one.
 - **Structured LLM integration with safety-conscious prompts**: Three schema-constrained LLM services (via `ruby_llm-schema`) with system prompts tuned for a mental-health-adjacent context, explicitly avoiding achievement/pressure framing and fabricated details. Used to generate route descriptions, preview highlights, and shareable quotes from walk data.
 
-#### ⚡ [ペラflash](https://github.com/cura-yjk/pera-flash)
+#### [ペラflash](https://github.com/cura-yjk/pera-flash)
 An AI-powered Japanese tutor app. Users submit sentences and an LLM (persona: "Pera") returns structured corrections: original text, corrected version, a vocab breakdown table, and grammar notes — with prompt-injection safeguards built into the system prompt. A separate lightweight LLM call auto-generates a short conversation title from the user's first message.
 
 **Highlights:**

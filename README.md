@@ -2,7 +2,7 @@
 
 Full-stack developer who just wrapped up an intensive AI Software Development bootcamp at Le Wagon: 9 weeks of Ruby on Rails, JavaScript, SQL, and AI integration, capped off with a team-built, deployed app from scratch.
 
-Currently **job hunting** for **AI Software Developer** or **DevOps** roles. Open to opportunities. Let's connect!
+Currently **job hunting** for **Full-stack Software Developer** role. Open to opportunities. Let's connect!
 
 ---
 
